@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-08-22",
+  "status_values": ["verified", "partially_verified", "unverified", "unknown"],
+  "vendors": [
+    {
+      "vendor_id": "7shifts",
+      "vendor_name": "7shifts",
+      "official_url": "https://www.7shifts.com/",
+      "affiliate_status": "unverified",
+      "affiliate_url": null,
+      "last_vendor_review": "2026-08-22",
+      "attributes": {
+        "pricing": {
+          "value": "Exact current public dollar pricing not verified in this build. Paid subscriptions are billed per location; current plan families include Comp, Essentials, Pro and Premium.",
+          "status": "partially_verified",
+          "source_url": "https://kb.7shifts.com/hc/en-us/articles/49200619105171-7shifts-Billing",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "scheduling": {
+          "value": "Restaurant-focused scheduling with availability, shift swaps, auto-scheduling and labor-target workflows.",
+          "status": "verified",
+          "source_url": "https://kb.7shifts.com/hc/en-us/articles/53059862558099-What-is-7shifts",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "restaurant": {
+          "value": "Purpose-built Restaurant Scheduling and Payroll Platform; official source states 55,000+ restaurants across North America.",
+          "status": "verified",
+          "source_url": "https://kb.7shifts.com/hc/en-us/articles/53059862558099-What-is-7shifts",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "time": {
+          "value": "7punches supports time clocking; the official help center states it is included on paid plans.",
+          "status": "verified",
+          "source_url": "https://kb.7shifts.com/hc/en-us/articles/4417514077587-7shifts-101-How-to-set-up-and-use-7punches-for-Time-Clocking",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "payroll": {
+          "value": "7shifts Payroll provides restaurant-specific payroll workflows; dollar pricing is not asserted here.",
+          "status": "verified",
+          "source_url": "https://kb.7shifts.com/hc/en-us/articles/15311542089363-7shifts-Payroll-Key-Features-Benefits-for-your-Restaurant",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "operational": {
+          "value": "Integrates with major restaurant POS systems and can sync sales/labor data for forecasting workflows.",
+          "status": "verified",
+          "source_url": "https://kb.7shifts.com/hc/en-us/articles/53059862558099-What-is-7shifts",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "commercial": {
+          "value": "New-customer trial is 14 days; exact plan prices remain unverified in this build.",
+          "status": "partially_verified",
+          "source_url": "https://kb.7shifts.com/hc/en-us/articles/29627257789715-What-do-I-do-when-my-7shifts-trial-expires",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        }
+      }
+    },
+    {
+      "vendor_id": "homebase",
+      "vendor_name": "Homebase",
+      "official_url": "https://www.joinhomebase.com/",
+      "affiliate_status": "unverified",
+      "affiliate_url": null,
+      "last_vendor_review": "2026-08-22",
+      "attributes": {
+        "pricing": {
+          "value": "Basic $0/location/month for 1 location up to 10 employees. Displayed monthly/annual-equivalent pricing: Essentials $30/$24, Plus $70/$56, All-in-One $120/$96 per location/month. Payroll add-on available.",
+          "status": "verified",
+          "source_url": "https://www.joinhomebase.com/solutions",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "scheduling": {
+          "value": "Basic/advanced scheduling by plan, with availability and automated scheduling capabilities.",
+          "status": "verified",
+          "source_url": "https://www.joinhomebase.com/solutions",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "restaurant": {
+          "value": "Food & beverage use case includes scheduling, time tracking, labor controls and restaurant payroll workflows.",
+          "status": "verified",
+          "source_url": "https://www.joinhomebase.com/food-beverage",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "time": {
+          "value": "Time clocks and timesheets; hours, breaks and overtime can flow into payroll-ready timesheets.",
+          "status": "verified",
+          "source_url": "https://www.joinhomebase.com/",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "payroll": {
+          "value": "Payroll is available as an add-on; restaurant payroll workflows cover wages, tips and taxes.",
+          "status": "verified",
+          "source_url": "https://www.joinhomebase.com/industry/restaurant-payroll",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "operational": {
+          "value": "Broader hourly-team suite spanning hiring, HR/compliance, communication and task management.",
+          "status": "verified",
+          "source_url": "https://www.joinhomebase.com/",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "commercial": {
+          "value": "Free Basic plan exists and official site states no credit card required to get started.",
+          "status": "verified",
+          "source_url": "https://www.joinhomebase.com/solutions",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        }
+      }
+    },
+    {
+      "vendor_id": "deputy",
+      "vendor_name": "Deputy",
+      "official_url": "https://www.deputy.com/",
+      "affiliate_status": "unverified",
+      "affiliate_url": null,
+      "last_vendor_review": "2026-08-22",
+      "attributes": {
+        "pricing": {
+          "value": "Lite $5/user/month, Core $6.50, Pro $9; official pricing states a $30 minimum monthly spend for Lite/Core/Pro. Payroll add-on is separately priced.",
+          "status": "verified",
+          "source_url": "https://www.deputy.com/pricing",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "scheduling": {
+          "value": "Scheduling, shift swaps, availability, auto-scheduling and demand forecasting vary by plan.",
+          "status": "verified",
+          "source_url": "https://www.deputy.com/pricing",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "restaurant": {
+          "value": "Dedicated restaurant/hospitality offering includes scheduling, time tracking and compliance workflows.",
+          "status": "verified",
+          "source_url": "https://www.deputy.com/industry/hospitality",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "time": {
+          "value": "Time clocking and timesheets included; advanced capabilities vary by plan.",
+          "status": "verified",
+          "source_url": "https://www.deputy.com/pricing",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "payroll": {
+          "value": "Payroll/HR integrations are included in Lite; eligible US Core/Pro annual plans can add Deputy Payroll enabled by Paycor.",
+          "status": "verified",
+          "source_url": "https://www.deputy.com/pricing",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "operational": {
+          "value": "Higher tiers include advanced compliance, demand forecasting and labor optimization.",
+          "status": "verified",
+          "source_url": "https://www.deputy.com/pricing",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "commercial": {
+          "value": "Free trial available; pricing is per user with a stated minimum monthly spend.",
+          "status": "verified",
+          "source_url": "https://www.deputy.com/pricing",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        }
+      }
+    },
+    {
+      "vendor_id": "sling",
+      "vendor_name": "Sling",
+      "official_url": "https://getsling.com/",
+      "affiliate_status": "unverified",
+      "affiliate_url": null,
+      "last_vendor_review": "2026-08-22",
+      "attributes": {
+        "pricing": {
+          "value": "Free plan up to 30 users. Premium shown at $2/user/month monthly or $1.70 annual-equivalent; Business $4/$3.40.",
+          "status": "verified",
+          "source_url": "https://getsling.com/pricing/",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "scheduling": {
+          "value": "Free plan includes shift scheduling, time-off requests, available shifts, long-term scheduling and messaging.",
+          "status": "verified",
+          "source_url": "https://getsling.com/employee-scheduling/",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "restaurant": {
+          "value": "Hospitality and restaurant use cases are documented; relative restaurant specialization is not scored as a fact.",
+          "status": "verified",
+          "source_url": "https://getsling.com/hospitality/",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "time": {
+          "value": "Mobile time tracking is listed on Premium; kiosk time tracking on Business.",
+          "status": "verified",
+          "source_url": "https://getsling.com/pricing/",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "payroll": {
+          "value": "Business includes hours/wages reports; native payroll processing was not verified.",
+          "status": "partially_verified",
+          "source_url": "https://getsling.com/pricing/",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "operational": {
+          "value": "Premium includes labor-cost/overtime tracking; Business adds reports, no-show, sick-callout and PTO management.",
+          "status": "verified",
+          "source_url": "https://getsling.com/pricing/",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        },
+        "commercial": {
+          "value": "Official help states no base fees, hidden charges or contracts; paid costs are based on account users.",
+          "status": "verified",
+          "source_url": "https://support.getsling.com/en/articles/3488128-how-much-does-sling-cost",
+          "source_type": "official",
+          "last_verified": "2026-08-22",
+          "verified_by": "AI-web-official"
+        }
+      }
+    }
+  ]
+}
