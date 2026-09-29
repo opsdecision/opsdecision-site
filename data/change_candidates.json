@@ -1,0 +1,11 @@
+{
+  "change_candidates": [],
+  "workflow": [
+    "record change candidate",
+    "verify official source",
+    "update database",
+    "identify affected assets from field_asset_map.json",
+    "regenerate/review affected assets",
+    "QA before deploy"
+  ]
+}
