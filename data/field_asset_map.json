@@ -1,0 +1,128 @@
+{
+  "7shifts.pricing": [
+    "asset_01",
+    "asset_02",
+    "asset_03"
+  ],
+  "7shifts.scheduling": [
+    "asset_01",
+    "asset_02",
+    "asset_03"
+  ],
+  "7shifts.restaurant": [
+    "asset_01",
+    "asset_02",
+    "asset_03"
+  ],
+  "7shifts.time": [
+    "asset_01",
+    "asset_02",
+    "asset_03"
+  ],
+  "7shifts.payroll": [
+    "asset_01",
+    "asset_02",
+    "asset_03"
+  ],
+  "7shifts.operational": [
+    "asset_01",
+    "asset_02",
+    "asset_03"
+  ],
+  "7shifts.commercial": [
+    "asset_01",
+    "asset_02",
+    "asset_03"
+  ],
+  "homebase.pricing": [
+    "asset_01",
+    "asset_02",
+    "asset_03"
+  ],
+  "homebase.scheduling": [
+    "asset_01",
+    "asset_02",
+    "asset_03"
+  ],
+  "homebase.restaurant": [
+    "asset_01",
+    "asset_02",
+    "asset_03"
+  ],
+  "homebase.time": [
+    "asset_01",
+    "asset_02",
+    "asset_03"
+  ],
+  "homebase.payroll": [
+    "asset_01",
+    "asset_02",
+    "asset_03"
+  ],
+  "homebase.operational": [
+    "asset_01",
+    "asset_02",
+    "asset_03"
+  ],
+  "homebase.commercial": [
+    "asset_01",
+    "asset_02",
+    "asset_03"
+  ],
+  "deputy.pricing": [
+    "asset_01",
+    "asset_02"
+  ],
+  "deputy.scheduling": [
+    "asset_01",
+    "asset_02"
+  ],
+  "deputy.restaurant": [
+    "asset_01",
+    "asset_02"
+  ],
+  "deputy.time": [
+    "asset_01",
+    "asset_02"
+  ],
+  "deputy.payroll": [
+    "asset_01",
+    "asset_02"
+  ],
+  "deputy.operational": [
+    "asset_01",
+    "asset_02"
+  ],
+  "deputy.commercial": [
+    "asset_01",
+    "asset_02"
+  ],
+  "sling.pricing": [
+    "asset_01",
+    "asset_02"
+  ],
+  "sling.scheduling": [
+    "asset_01",
+    "asset_02"
+  ],
+  "sling.restaurant": [
+    "asset_01",
+    "asset_02"
+  ],
+  "sling.time": [
+    "asset_01",
+    "asset_02"
+  ],
+  "sling.payroll": [
+    "asset_01",
+    "asset_02"
+  ],
+  "sling.operational": [
+    "asset_01",
+    "asset_02"
+  ],
+  "sling.commercial": [
+    "asset_01",
+    "asset_02"
+  ]
+}
